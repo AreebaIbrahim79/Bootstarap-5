@@ -17,12 +17,6 @@ To start using Bootstrap 5 in your project, you can include it via CDN or downlo
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
 ```
-
-**Installation via npm:**
-```bash
-npm install bootstrap
-```
-
 ### Use Cases:
 Bootstrap 5 is ideal for a wide range of web projects, from simple business sites to complex web applications, ensuring a consistent look and feel across devices and browsers.
 
